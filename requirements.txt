@@ -1,0 +1,15 @@
+# google: ambiguous - could be grpc-google-iam-v1, google-resumable-media, google-cloud-appengine-logging, google-cloud-bigquery-storage, google-cloud-audit-log, google-cloud-core, googleapis-common-protos, google-cloud-secret-manager, google-cloud-spanner, google-api-core
+
+langchain_community
+langchain_core
+langchain_google_genai
+langchain_openai
+langgraph
+pillow
+pandas
+pydantic
+python-dotenv
+requests
+streamlit
+google-genai
+tavily-python
